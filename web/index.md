@@ -44,13 +44,38 @@ title: About
         <li>Implement summary models to shorten the length of texts in documents. (NLP)
         </li>
       </ul>
-      <b>Librairies & Techniques :</b>
-      🛠️Python : Plotly, NLP, Pandas, Transformers, Gensim, HuggingFace, bm25_rank, nltk, ReGex.
-      🛠️Foundry (Palantir) 
-      🛠️PostgreSQL
-      </p>
-      <p><strong>Data Scientist | Computer Vision <span class="date" style=" color: inherit;">Dec 2022 - Mar 2023</span><br><a>NGE</a></strong> - Freelance</p>
-      <p>Reduction of CO2 emissions due to the use of concrete from purchase invoices :
+      <p><strong>𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐌𝐢𝐬𝐬𝐢𝐨𝐧𝐬:</strong></p>
+      <ul>
+        <li>Designed the 𝐁𝐢𝐠 𝐃𝐚𝐭𝐚 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 for the company, adopting the 𝐋𝐚𝐦𝐛𝐝𝐚 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐓𝐲𝐩𝐞 to ensure robustness and scalability.
+        </li>
+      </ul>
+      <p><i>𝑺𝒕𝒓𝒂𝒕𝒆𝒈𝒊𝒄𝒂𝒍𝒍𝒚 𝒎𝒂𝒑𝒑𝒆𝒅 𝒐𝒖𝒕:</i></p>
+      <ul>
+        <li>𝐃𝐚𝐭𝐚 𝐒𝐨𝐮𝐫𝐜𝐞𝐬 to capture diverse data streams.
+        <li>𝐃𝐚𝐭𝐚 𝐒𝐭𝐨𝐫𝐚𝐠𝐞 solutions for efficient data management.
+        <li>𝐁𝐚𝐭𝐜𝐡 𝐥𝐚𝐲𝐞𝐫, 𝐬𝐩𝐞𝐞𝐝 𝐥𝐚𝐲𝐞𝐫, 𝐚𝐧𝐝 𝐬𝐞𝐫𝐯𝐢𝐧𝐠 𝐥𝐚𝐲𝐞𝐫 for comprehensive data processing.
+        <li>𝐃𝐚𝐭𝐚 𝐂𝐨𝐧𝐬𝐮𝐦𝐩𝐭𝐢𝐨𝐧 mechanisms to extract actionable insights.
+        <li>Implemented 𝐁𝐢𝐠 𝐃𝐚𝐭𝐚 𝐆𝐨𝐯𝐞𝐫𝐧𝐚𝐧𝐜𝐞 measures to ensure data quality, security, and compliance.
+        </li>
+      </ul>
+     <p><strong>CEO and Founder <span class="date" style=" color: inherit;">Jan 2023 - Present</span><br><a href="https://abdellatif-belmady.github.io/smart-correction/">Smart Correction</a></strong> - Part Time</p>
+      <p>As the founder and CEO of Smart Correction, I have had the privilege of guiding this company from its exciting beginnings. Our mission at Smart Correction is to transform education by providing intelligent and personalized assistance to French and Moroccan students.</p>
+      <b>About Smart Correction:</b>
+      <p>Smart Correction is more than just an educational platform. It is a vision, a revolution in learning powered by artificial intelligence. Our dedicated team has worked tirelessly to create an educational experience that transcends boundaries and opens new opportunities for every student.</p>
+      <b>Key Achievements:</b>
+      <ul>
+        <li>Successfully designed and launched the Smart Correction platform, offering instant assistance and accurate corrections.
+        <li>Established strategic partnerships with educational institutions to integrate our solution into the educational landscape.
+        <li>Implemented rigorous security measures to ensure user confidentiality.
+        <li>Actively promoted smart and personalized education, with a commitment to continuous improvement.
+        </li>
+      </ul>
+      <b>Impact on Education:</b>
+      <p>Smart Correction has already touched the lives of thousands of students, helping them excel in their studies and prepare optimally for their exams. Our vision is to create a lasting impact on learning, making Smart Correction a benchmark in the field of smart education.</p>
+      <p>Join us in this educational adventure. Together, let's build a future where every student has access to quality, personalized, and effective education.</p>
+      <button><a href="https://youai.ai/ais/40eb0bac-eebf-4268-9e91-f5e75f6dcc79">Try It Now</a></button>
+     <p><strong>CEO and Founder <span class="date" style=" color: inherit;">Jan 2022 - Present</span><br><a href="https://www.linkedin.com/company/other-ways25/">Other Ways</a></strong> - Part Time</p>
+      <p>Today, the presence and installation of cameras are indispensable in large organizations and across various sectors. However, traditional camera systems often lag behind the advancements in the digital and intelligent world. At OtherWays, we offer a range of services leveraging intelligent cameras integrated with cutting-edge technologies. Our solutions go beyond traditional surveillance by providing advanced capabilities tailored to your needs, such as:
       <ul>
         <li>Collection and cleaning of invoices.
         <li>Extraction of precise data from scanned images using YOLOv7 and DocTR (OCR)
